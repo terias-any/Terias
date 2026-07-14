@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://terias-any.netlify.app/sitemap.xml
+Sitemap: https://terias-any.github.io/Terias/sitemap.xml
