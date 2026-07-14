@@ -67,6 +67,12 @@ Upload toàn bộ thư mục lên Netlify, GitHub Pages, hoặc hosting khác.
 * Giới thiệu: `about-me/index.html`
 * Trang lỗi: trong thư mục `errors/`
 
+## 📄 License
+
+Dự án này được phát hành theo giấy phép **MIT License**.
+
+Xem chi tiết tại file [`LICENSE`](LICENSE).
+
 ## 📝 Ghi chú
 
 * Một số link mạng xã hội đang để dạng tạm thời.
