@@ -32,23 +32,18 @@
 ```bash
 Terias/
 ├── index.html
+├── 404.html
 ├── style.css
 ├── script.js
 ├── robots.txt
 ├── sitemap.xml
-├── netlify.toml
 ├── image/
-│   ├── avatar.jpeg
-│   └── ai.jpeg
-├── about-me/
-│   ├── index.html
-│   ├── style.css
-│   └── main.js
-└── errors/
-    ├── 400.html
-    ├── 403.html
-    ├── 404.html
-    └── 500.html
+│ ├── avatar.jpeg
+│ └── ai.jpeg
+└── about-me/
+    ├── index.html
+    ├── style.css
+    └── main.js
 ```
 
 ## 🚀 Cách chạy
@@ -65,7 +60,7 @@ Upload toàn bộ thư mục lên Netlify, GitHub Pages, hoặc hosting khác.
 
 * Trang chủ: `index.html`
 * Giới thiệu: `about-me/index.html`
-* Trang lỗi: trong thư mục `errors/`
+* Trang lỗi: trong thư mục `errors/` (bản cũ), bản mới (404.html)
 
 ## 📄 License
 
